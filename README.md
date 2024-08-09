@@ -18,10 +18,10 @@ The **Product Sale Tracker** is a data analysis project designed to simulate and
 - NumPy
 - Matplotlib
 
-You can install the required packages using pip:
+## Screenshots
 
-```bash
-pip install pandas numpy matplotlib
+![Screenshot (25)](https://github.com/user-attachments/assets/de94f460-9bff-48d1-8e7b-cd7b055c0ca4)
+
 
 
 
