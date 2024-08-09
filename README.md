@@ -23,7 +23,5 @@ You can install the required packages using pip:
 ```bash
 pip install pandas numpy matplotlib
 
-###  Screenshots:
 
-![Screenshot (25)](https://github.com/user-attachments/assets/c0df47d7-2633-41b0-858b-fcc66a7d1d0d)
 
